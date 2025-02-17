@@ -1,6 +1,6 @@
 # Quantium Data Analytics Internship
 
-![(https://github.com/Lucky-akash321/Quantium-Data-Analytics/blob/main/quantium.png)]
+![](https://github.com/Lucky-akash321/Quantium-Data-Analytics/blob/main/quantium.png)
 
 ## Overview
 The Quantium Data Analytics Internship provides an opportunity to work with a leading data analytics firm to develop practical skills and gain real-world experience. During the internship, I worked on various data-driven projects, focusing on customer insights, predictive analytics, and optimization strategies. The internship exposed me to key tools and techniques used in the data analytics industry, including data wrangling, statistical analysis, and data visualization.
